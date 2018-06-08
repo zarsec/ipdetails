@@ -4,7 +4,8 @@ A tiny script to fetch detailed information about an IP from https://ipapi.co/ a
 If no IP is specified, it will provide details of the user's IP address.
 
 You may need to run the following command before using the script:
-chmod -R 755 ipdetails
+
+sudo chmod -R 755 ipdetails
 
 ./ipdetails
                 
