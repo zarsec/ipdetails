@@ -1,6 +1,6 @@
 # ipdetails
 
-A tiny script to fetch detailed information about an IP from https://ipapi.co/ and display the output in the terminal.
+A tiny bash script to fetch detailed information about an IP from https://ipapi.co/ and display the output in the terminal.
 If no IP is specified, it will provide details of the user's IP address.
 
 You may need to run the following command before using the script:
